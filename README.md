@@ -47,6 +47,7 @@ O Bot Builder é um SDK open source desenvolvido pela Microsoft. Isto mesmo amig
 
 ## Nosso projeto 
 ![Imagem tropa de elite](http://geradormemes.com/media/created/sbaqiy.jpg)
+
 Abra o terminal ou CMD, e crie uma pasta chamada exemplo-bot. Logo depois abra o diretório
 
 ```
