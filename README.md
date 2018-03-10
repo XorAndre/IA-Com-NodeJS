@@ -20,7 +20,7 @@ Uma pequena IA com NodeJS
 
 
 ### Espera falta algo ainda!
- Antes de começamos a escrever nosso código precisamos entender como funciona uma rede neural.  Nosso cérebro possuí 10 milhões de neurốnios. Todas as funções de nosso organismo são ralacionadas com estas células. Os neurônios se conectam uns ao outros através de sinapses, juntos formam a chamada Rede Neural. Está rede possibilita a nós seres humanos uma enorme capacidade de armazenamento e processamento de dados.
+ Antes de escrevermos nosso código precisamos entender como funciona uma rede neural.  Nosso cérebro possuí 10 milhões de neurốnios. Todas as funções de nosso organismo são ralacionadas com estas células. Os neurônios se conectam uns ao outros através de sinapses, juntos formam a chamada Rede Neural. Está rede possibilita a nós seres humanos uma enorme capacidade de armazenamento e processamento de dados.
  
   
 ### Redes Neurais Artificiais
