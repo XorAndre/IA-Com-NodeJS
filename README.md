@@ -1,6 +1,7 @@
 # IA-Com-NodeJS
 Destinado para quem aprender um pouco sobre Inteligência artificial com um exemplo de Chatbot usando Node-JS
-O que é Inteligência Artificial?
+
+## O que é Inteligência Artificial?
 Similar a inteligência humana, a IA é demonstrada através de mecanimos e softwares. Também muito estudada no meio acadêmico. Vários pesquisadores e registros didáticos definem o campo como: “ Estudos de agentes inteligentes”. Caso não saiba agentes inteligentes são sistemas capazes de identificar o ambiente e tomar atitudes. 
 
 ## Tipos de IA
