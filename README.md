@@ -8,9 +8,11 @@ Similar a inteligência humana, a IA é demonstrada através de mecanimos e soft
  Existem três tipos de inteligência artificial, mas antes de citar seus nomes gostaria de dizer que robốs não são IA. Robốs são máquinas programadas para fazer tarefas repetidas, mas não tarefas de modo “inteligente” a ponto de indenticar algo sozinho e fazer, mas nada impede que um robô possa ter um comportamento a partir de uma IA.
    
 ## Artificial Narrow Intelligence
-Esse é o mais baixo nível de inteligência artificial. Elas conseguem identificar um determinado ambiente, mas não vão muito além do que o que foi estabelecido conhecer. São exemplos: anti-spans, busca do Google, conversores de aúdio em texto (tradutores). 
+Esse é o mais baixo nível de inteligência artificial. Elas conseguem identificar um determinado ambiente, mas não vão muito além do que o que foi estabelecido conhecer. São exemplos: anti-spans, busca do Google, conversores de aúdio em texto (tradutores).
+
 ## Artificial General Intelligence
- Chamada de inteligência forte. Essa IA tenta se igualar a inteligência humana ao realizar tarefas intelectuais. Criar esse tipo de Inteligência artificial não é uma tarefa fácil como a Narrow. Seu desenvolvimento envolve conhecimento muito além. E chegar a este nível digamos que por “inteiro”, ainda vai demorar um tempinho. 
+ Chamada de inteligência forte. Essa IA tenta se igualar a inteligência humana ao realizar tarefas intelectuais. Criar esse tipo de Inteligência artificial não é uma tarefa fácil como a Artificial Narrow Intelligence. Seu desenvolvimento envolve conhecimento muito além. E chegar a este nível, ainda vai demorar um tempinho.
+ 
 ## Artificial Superintelligence
  Este é o ultimo nível que uma IA pode chegar. Este tipo de inteligência supera as mais brilhantes mentes humanas. Alguns pesquisadores acreditam que criar tal IA seria por em risco a raça humana (não só pesquisadores srsr), e outros acreditam que seria a chava para entender imortalidade. Mas claro que isso está longe de ser criado. 
 Uma pequena IA com NodeJS
