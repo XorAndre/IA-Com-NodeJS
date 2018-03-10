@@ -91,4 +91,4 @@ let connector = new builder .ChatConnector({
 	appPassworld: process.env.MICROSOFT_APP_PASSWORD
 });
 ```
- O Chatonnector é usado na comunicação com o Bot Framework Connector Service, o serviço responsável por gerenciar conexão com múltiplos canais suportados pelo framework.
+ O ChatConnector é usado na comunicação com o Bot Framework Connector Service, o serviço responsável por gerenciar conexão com múltiplos canais suportados pelo framework.
